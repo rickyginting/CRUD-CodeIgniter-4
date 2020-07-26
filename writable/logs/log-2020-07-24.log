@@ -1,0 +1,220 @@
+CRITICAL - 2020-07-24 06:47:24 --> Undefined property: App\Controllers\Home::$DosenModel
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 06:48:03 --> Call to undefined method App\Controllers\Home::DosenModel()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 06:48:36 --> Undefined variable: db
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 06:52:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::findAll()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 06:52:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::first()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 06:53:44 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(26): json_decode(Object(CodeIgniter\Database\MySQLi\Builder))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 06:53:46 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(26): json_decode(Object(CodeIgniter\Database\MySQLi\Builder))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 06:59:47 --> Call to undefined method App\Models\DosenModel::getResult
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(26): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:02:00 --> Call to undefined method App\Models\DosenModel::getResultArray
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(26): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:02:58 --> Call to undefined method App\Models\DosenModel::getResult
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(26): CodeIgniter\Model->__call('getResult', Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:03:55 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): json_decode(Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 07:05:34 --> Cannot use object of type App\Models\DosenModel as array
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:06:49 --> Cannot use object of type App\Models\DosenModel as array
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:07:25 --> Trying to get property 'nama_dosen' of non-object
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:07:35 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:07:50 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:09:00 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): json_decode(Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 07:09:19 --> Array to string conversion
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:09:51 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): json_decode(Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 07:10:47 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): json_decode(Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 07:11:04 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(28): json_decode(Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-24 07:13:07 --> Call to undefined method App\Controllers\Home::respond()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:14:49 --> Call to undefined method App\Controllers\Home::respond()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:15:05 --> Call to undefined method App\Controllers\Home::respond()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:16:59 --> Call to undefined method App\Controllers\Home::respond()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:17:58 --> Call to undefined method App\Controllers\Home::respond()
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-24 07:19:26 --> Undefined property: App\Controllers\Home::$nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-24 07:29:32 --> Class 'App\Controllers\DosenModel' not found
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Api->getDataDosen()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}

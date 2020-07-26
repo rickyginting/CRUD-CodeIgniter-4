@@ -1,0 +1,322 @@
+CRITICAL - 2020-07-18 03:07:35 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:07:51 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:08:39 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:08:49 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:08:59 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:09:28 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:09:31 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:10:24 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 03:34:41 --> Undefined variable: nameapp
+#0 C:\xampp\htdocs\crud-ci4\app\Views\template\navbar.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\View\View.php(525): CodeIgniter\View\View->render('/template/navba...', NULL, true)
+#3 C:\xampp\htdocs\crud-ci4\app\Views\template\BaseView.php(13): CodeIgniter\View\View->include('/template/navba...')
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('/template/BaseV...', Array, true)
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('mhs/v_mhs', Array, true)
+#7 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(9): view('mhs/v_mhs', Array)
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->index()
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#10 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2020-07-18 04:25:45 --> syntax error, unexpected 'dd' (T_STRING)
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('mahasiswa/simpa...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('mahasiswa/simpa...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-18 04:34:17 --> Argument 2 passed to CodeIgniter\Validation\FileRules::uploaded() must be of the type string, null given, called in C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php on line 325
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(325): CodeIgniter\Validation\FileRules->uploaded(NULL, NULL)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('photo_mhs', 'photo_mhs', NULL, Array, Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-18 04:35:04 --> Argument 2 passed to CodeIgniter\Validation\FileRules::uploaded() must be of the type string, null given, called in C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php on line 325
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(325): CodeIgniter\Validation\FileRules->uploaded(NULL, NULL)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('photo_mhs', 'photo_mhs', NULL, Array, Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-18 04:35:08 --> Argument 2 passed to CodeIgniter\Validation\FileRules::uploaded() must be of the type string, null given, called in C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php on line 325
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(325): CodeIgniter\Validation\FileRules->uploaded(NULL, NULL)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('photo_mhs', 'photo_mhs', NULL, Array, Array)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(34): CodeIgniter\Controller->validate(Array)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-18 04:36:09 --> Call to a member function getRandomName() on null
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-18 04:37:03 --> Column 'nip' cannot be null
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `tb...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(64): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-18 04:38:11 --> Column 'photo_mhs' cannot be null
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `tb...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(64): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->simpan()
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-07-18 04:38:33 --> Undefined index: nama
+#0 C:\xampp\htdocs\crud-ci4\app\Views\mhs\v_mhs.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('mhs/v_mhs', Array, true)
+#3 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(16): view('mhs/v_mhs', Array)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->index()
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-18 04:53:53 --> Unknown column 'slug' in 'where clause'
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-18 04:54:35 --> Call to undefined method App\Models\MhsModel::frist
+#0 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->__call('frist', Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 04:54:46 --> Unknown column 'slug' in 'where clause'
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-18 04:55:12 --> Unknown column 'slug' in 'where clause'
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-18 04:55:43 --> Unknown column 'slug' in 'where clause'
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-18 04:57:40 --> Unknown column 'slug' in 'where clause'
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\crud-ci4\app\Models\MhsModel.php(13): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(20): App\Models\MhsModel->getMhs('ricky-martin-gi...')
+#7 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->detail('ricky-martin-gi...')
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#9 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2020-07-18 05:20:59 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-07-18 05:57:25 --> Too few arguments to function App\Controllers\Mahasiswa::hapus(), 0 passed in C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-18 06:00:11 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(977): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(90): CodeIgniter\Model->delete(NULL)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 06:00:35 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(977): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(90): CodeIgniter\Model->delete(NULL)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus()
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 06:02:10 --> Too few arguments to function App\Controllers\Mahasiswa::hapus(), 0 passed in C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus()
+#1 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-18 06:02:49 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(977): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(90): CodeIgniter\Model->delete(NULL)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus(NULL)
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 06:04:57 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(977): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(90): CodeIgniter\Model->delete(NULL)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus(NULL)
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 06:10:17 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Model.php(977): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(90): CodeIgniter\Model->delete(NULL)
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus(NULL)
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-07-18 07:06:15 --> unlink(img/mhs1595072954_0412dce887d071c699be.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(img/mhs1...', 'C:\\xampp\\htdocs...', 105, Array)
+#1 C:\xampp\htdocs\crud-ci4\app\Controllers\Mahasiswa.php(105): unlink('img/mhs15950729...')
+#2 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Mahasiswa->hapus('180121001')
+#3 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#4 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud-ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\crud-ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
